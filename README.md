@@ -1,3 +1,7 @@
+### Hey 👋🏽, I'm Nandinee
+
+<br/>
+
 <a href="https://www.linkedin.com/in/nandinee-gupta-78277b193/">
 <img align="left" alt="Nandinee's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
