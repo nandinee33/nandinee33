@@ -1,16 +1,18 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/nandinee-gupta-78277b193/">
+<img align="left" alt="Nandinee's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-<!--
-**nandinee33/nandinee33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm Nandinee Gupta, 🚀 from Kanpur, India. I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambassador and Machine Learning Enthusiast. I am an optimistic and self-confident person and passionately working towards my dreams. Beside's these, I love web developing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning
+- 🌱 I’m an engineering student in GLA University, Mathura
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: guptanandinee35@gmail.com
+
+![Nandinee's github stats](https://github-readme-stats.vercel.app/api?username=nandinee33&show_icons=true&hide_border=true)
