@@ -1,6 +1,8 @@
-### Hey 👋🏽, I'm Nandinee
+## Welcome to my github! 👋
 
-<i>Follow me:</i><br>
+<hr>
+
+<i>Follow me:</i>
 <p>
 <a href="mailto:guptanandinee35@gmail.com.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/nandinee-gupta-78277b193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
