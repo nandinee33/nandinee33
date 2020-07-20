@@ -1,7 +1,5 @@
 ## Welcome to my github! 👋
 
-<hr>
-
 <i>Follow me:</i>
 <p>
 <a href="mailto:guptanandinee35@gmail.com.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
@@ -10,7 +8,7 @@
 </p>
 
 <hr>
-
+### About me :mortar_board:
 Hi, I'm Nandinee Gupta, 🚀 from Kanpur, India. I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambassador and Machine Learning Enthusiast. I am a self-confident person and passionately working towards my dreams. Beside's these, I love web developing.
 
 <img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
