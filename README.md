@@ -8,7 +8,9 @@
 </p>
 
 <hr>
+
 ### About me :mortar_board:
+
 Hi, I'm Nandinee Gupta, 🚀 from Kanpur, India. I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambassador and Machine Learning Enthusiast. I am a self-confident person and passionately working towards my dreams. Beside's these, I love web developing.
 
 <img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
