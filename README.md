@@ -7,8 +7,7 @@
 <a href="https://github.com/nandinee33/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
-<br />
-
+<hr>
 
 Hi, I'm Nandinee Gupta, 🚀 from Kanpur, India. I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambassador and Machine Learning Enthusiast. I am a self-confident person and passionately working towards my dreams. Beside's these, I love web developing.
 
