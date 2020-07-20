@@ -1,12 +1,14 @@
 ### Hey 👋🏽, I'm Nandinee
 
-<br/>
-
-<a href="https://www.linkedin.com/in/nandinee-gupta-78277b193/">
-<img align="left" alt="Nandinee's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<i>Follow me:</i><br>
+<p>
+<a href="mailto:guptanandinee35@gmail.com.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/nandinee-gupta-78277b193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/nandinee33/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+</p>
 
 <br />
+
 
 Hi, I'm Nandinee Gupta, 🚀 from Kanpur, India. I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambassador and Machine Learning Enthusiast. I am a self-confident person and passionately working towards my dreams. Beside's these, I love web developing.
 
