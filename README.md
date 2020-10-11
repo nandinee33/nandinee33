@@ -1,6 +1,6 @@
 ## Welcome to my github! 👋 , I am Nandinee
 
-<i>Follow me: ⭐</i>
+<i>Follow me:</i>
 <p>
 <a href="mailto:guptanandinee35@gmail.com.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/nandinee-gupta-78277b193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -22,7 +22,7 @@ I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambass
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: guptanandinee35@gmail.com
 
-### My Tech Stack
+### My Tech Stack ⭐
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
