@@ -1,6 +1,6 @@
 ## Welcome to my github! 👋 , I am Nandinee
 
-<i>Follow me:</i>
+<i>Follow me: ⭐</i>
 <p>
 <a href="mailto:guptanandinee35@gmail.com.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/nandinee-gupta-78277b193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -40,8 +40,6 @@ I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambass
 ![Nandinee's github stats](https://github-readme-stats.vercel.app/api?username=nandinee33&show_icons=true&hide_border=true)
 
 <hr>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nandinee33" alt="nandinee33"/> 
-</p>
-<p>⭐ From <a href="https://github.com/nandinee33">nandinee33</a></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nandinee33" alt="nandinee33"/> </p>
+
 
