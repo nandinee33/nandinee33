@@ -13,7 +13,7 @@
 
 ### About me :mortar_board:
 
-I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambassador and Machine Learning Enthusiast. I am a self-confident person and passionately working towards my dreams and willing to learn new things. Beside's these, I love web developing.
+I am Microsoft certified(MTA) Python Programmer and Machine Learning Enthusiast. I am a self-confident person and passionately working towards my dreams and willing to learn new things. Beside's these, I love web developing.
 
 <img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
 
@@ -27,17 +27,20 @@ I am Microsoft certified(MTA) Python Programmer, WomenTech Network GLOBAL Ambass
 ### My Tech Stack ⭐
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=Javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=JQuery)
+<br>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![C](https://img.shields.io/badge/-gray?style=flat-square&logo=C)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
-<p>
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="" style="vertical-align:top; margin:4px">
-</p>
+![MachineLearning](https://img.shields.io/badge/-MachineLearning-181717?style=flat-square&logo=ML)
+![Jupyter](https://img.shields.io/badge/-Jupyter-pink?style=flat-square&logo=Jupyter)
+![VScode](https://img.shields.io/badge/-VScode-blue?style=flat-square&logo=VScode)
 
 ![Nandinee's github stats](https://github-readme-stats.vercel.app/api?username=nandinee33&show_icons=true&hide_border=true)
 
