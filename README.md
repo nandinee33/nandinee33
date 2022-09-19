@@ -1,7 +1,5 @@
  ## Hii I am Nandinee 👋
  
- ## Welcome to my github!
- 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nandinee33" alt="nandinee33"/> </p>
 
 <i>Follow me on :</i>
