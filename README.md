@@ -15,38 +15,35 @@
 
 ### About me :mortar_board:
 
-I am a inquisitive person and love exploring varied perception in Life and so in technologies. I have keen interested in **FullStack Development** and **Machine Learning** 👀. I am a **Microsoft certified(MTA) Python Programmer** and passionately working towards my dreams and willing to learn new things. Beside's these, I love drawing and Learning different technologies and applying them in real excites me! 🤩<br />
+I am a inquisitive person and love exploring varied perception in Life and so in technologies. I have keen interested in **FullStack Development**.Beside's these, I love drawing and Learning different technologies and applying them in real excites me! 🤩<br />
 
 <img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
 
 #### *Talking about Personal Stuffs:*
 
-- 👨🏽‍💻 I’m currently learning Fullstack and  Machine Learning 🧐
-- 🌱 I’m an Engineering student🎓
-- 👯 Looking to collaborate on Web development projects 🤗
+- 👨🏽‍💻 I’m currently learning Asp.Net and C#🧐
+- 🌱 I’m an Software Engineering🎓
+- 👯 Looking to collaborate on Web Development projects 🤗
 - 💬 Ask me about frontend, I am happy to help🤓
 - 📫 How to reach me: guptanandinee35@gmail.com 🔗
 
 ### My Tech Stack ⭐
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=Javascript)
-![React](https://img.shields.io/badge/-React-pink?style=flat-square&logo=React)
-![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat-square&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat-square&logo=MySQL)
-![C](https://img.shields.io/badge/-gray?style=flat-square&logo=C)
-<br>
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-![MachineLearning](https://img.shields.io/badge/-MachineLearning-181717?style=flat-square&logo=ML)
-![Node.js](http://img.shields.io/badge/-Node%20Express-3DDC84?style=flat-square&logo=Node-Express&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-pink?style=flat-square&logo=Jupyter)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VScode](https://img.shields.io/badge/-VScode-blue?style=flat-square&logo=VScode)
 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=Javascript)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?style=flat-square&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat-square&logo=MySQL)
+![C](https://img.shields.io/badge/-gray?style=flat-square&logo=C)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 
 ![Nandinee's github stats](https://github-readme-stats.vercel.app/api?username=nandinee33&show_icons=true&hide_border=true)
 
