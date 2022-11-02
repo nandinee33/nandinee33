@@ -15,8 +15,6 @@
 
 I am a inquisitive person and love exploring varied perception in Life and so in technologies. I have keen interested in **FullStack Development**. Beside's these, I love drawing and Learning different technologies! 🤩<br />
 
-<img align="right" alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" />
-
 #### *Talking about Personal Stuffs:*
 
 - 👨🏽‍💻 I’m currently learning Asp.Net and C#🧐
