@@ -20,7 +20,6 @@ I am a inquisitive person and love exploring varied perception in Life and so in
 - 👨🏽‍💻 I’m currently learning Asp.Net and C#🧐
 - 🌱 I’m an Software Engineering🎓
 - 👯 Looking to collaborate on Web Development projects 🤗
-- 💬 Ask me about frontend, I am happy to help🤓
 - 📫 How to reach me: guptanandinee35@gmail.com 🔗
 
 ### My Tech Stack ⭐
@@ -38,7 +37,5 @@ I am a inquisitive person and love exploring varied perception in Life and so in
 ![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat-square&logo=MySQL)
 ![C](https://img.shields.io/badge/-gray?style=flat-square&logo=C)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-
-![Nandinee's github stats](https://github-readme-stats.vercel.app/api?username=nandinee33&show_icons=true&hide_border=true)
 
 <hr>
